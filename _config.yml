@@ -1,0 +1,10 @@
+
+title: Web Archiving Community
+description: Discover web archiving software, organizations, reading lists, and communities with ArchiveBox.
+url: https://community.archivebox.io
+baseurl: ''
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
